@@ -27,6 +27,8 @@ Capstone project for fouth year engineering project made in 2019.
 
 ## **Final Product**
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/befde388-3ed9-40a1-8e4b-6f196b1e5c74" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/d8b3e288-4e9f-4077-98fd-db57bd937cff" />
+
 
 
 ## **Wiring Diagrams**
